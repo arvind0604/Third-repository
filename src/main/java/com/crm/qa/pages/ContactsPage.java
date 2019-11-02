@@ -56,7 +56,8 @@ public class ContactsPage extends TestBase {
 	}
 	
 	public void gitCheck(){
-		System.out.println("checking the branch");
+		System.out.println("checking the branch 2");
+		
 	}
 	
 	
